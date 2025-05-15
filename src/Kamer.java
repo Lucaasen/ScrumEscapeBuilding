@@ -12,6 +12,9 @@ public class Kamer {
 
     }
     public String getKamerType(){
-
+        String kamerType;
+        KamerType kamerType = new KamerType();
+        new KamerType();
+        Return(Type);
     }
 }
